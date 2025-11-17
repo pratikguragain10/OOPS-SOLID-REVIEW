@@ -1,0 +1,21 @@
+## Searches Performed During Assignment
+
+- How to fetch and access datas from api's in python?
+
+Link Used:
+    - https://medium.com/@noorfatimaafzalbutt/fetching-data-through-apis-with-python-a-comprehensive-guide-e3b335de0067
+
+- How to convert an array of json objects to tsv python?
+
+Link Used:
+    - https://stackoverflow.com/questions/26707137/convert-an-array-of-json-objects-to-tsv-python
+
+- How to convert an array of json objects?
+
+    - https://stackoverflow.com/questions/48262492/how-to-convert-json-data-to-pdf-using-python-script
+
+- OOP & SOLID:
+
+Link Used:
+
+    - https://realpython.com/solid-principles-python/
